@@ -41,4 +41,23 @@ By Using the PPM application, Imported the data from Project Online, SharePoint,
 * Portfolio View
 * Organizational View
 
+# Home View
+![image](https://github.com/user-attachments/assets/5c02d43a-daf6-4e28-b6a5-91bb9e0a5ef0)
+
+# Tasks Overview
+![image](https://github.com/user-attachments/assets/b114bd59-fae6-4499-a7db-999318bd5551)
+
+# Portfolio View
+![image](https://github.com/user-attachments/assets/bc16bac7-0252-4c76-96b0-98621897e357)
+
+# Organizational View
+![image](https://github.com/user-attachments/assets/1667d1e7-74ba-46d8-90f6-8b501fe7e3cb)
+
+
+# Project Outcome
+This report enables data-driven decision-making, allowing for in-depth analysis and providing answers to various 'why' questions based on specific situations.
+
+
+
+
   
