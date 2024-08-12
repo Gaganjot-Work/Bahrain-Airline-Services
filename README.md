@@ -5,7 +5,6 @@ BAS Team wanted to streamline the tracking of project requests and associated ta
 Leveraging my expertise in Power BI, I developed and maintained these dashboards, integrating data from OData feeds, SharePoint, and SQL. This ensured real-time, actionable intelligence. My focus on data visualization and the creation of key performance indicators (KPIs) empowered stakeholders to make confident, data-driven decisions.
 
 # Live Dashboard
-
 https://app.powerbi.com/view?r=eyJrIjoiNTRkN2MwNGYtNzQxOS00ZDAzLWIzODYtYzdmNjU5ZDBhZDFiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=ReportSection05a8322c18d1399c89cb
 
 # Tech Stacks
